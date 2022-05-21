@@ -1,2 +1,2 @@
 # Sharedknowledgeservice
-since 2017
+mini project since 2017
